@@ -1,0 +1,384 @@
+node:internal/modules/cjs/loader:1247
+  throw err;
+  ^
+
+Error: Cannot find module './index.ts'
+Require stack:
+- /home/xxxxxxxx/VRGAMEADMIN/packages/agent/packages/server/src/imaginaryUncacheableRequireResolveScript
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function.resolve (node:internal/modules/helpers:146:19)
+    at requireResolveNonCached (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:549:16)
+    at getProjectSearchDir (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:519:40)
+    at phase3 (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:267:27)
+    at bootstrap (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:47:30)
+    at main (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:33:12)
+    at Object.<anonymous> (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:579:5)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/xxxxxxxx/VRGAMEADMIN/packages/agent/packages/server/src/imaginaryUncacheableRequireResolveScript'
+  ]
+}
+
+Node.js v22.13.0
+node:internal/modules/cjs/loader:1247
+  throw err;
+  ^
+
+Error: Cannot find module './index.ts'
+Require stack:
+- /home/xxxxxxxx/VRGAMEADMIN/packages/agent/packages/server/src/imaginaryUncacheableRequireResolveScript
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function.resolve (node:internal/modules/helpers:146:19)
+    at requireResolveNonCached (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:549:16)
+    at getProjectSearchDir (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:519:40)
+    at phase3 (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:267:27)
+    at bootstrap (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:47:30)
+    at main (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:33:12)
+    at Object.<anonymous> (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:579:5)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/xxxxxxxx/VRGAMEADMIN/packages/agent/packages/server/src/imaginaryUncacheableRequireResolveScript'
+  ]
+}
+
+Node.js v22.13.0
+node:internal/modules/cjs/loader:1247
+  throw err;
+  ^
+
+Error: Cannot find module './index.ts'
+Require stack:
+- /home/xxxxxxxx/VRGAMEADMIN/packages/agent/packages/server/src/imaginaryUncacheableRequireResolveScript
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function.resolve (node:internal/modules/helpers:146:19)
+    at requireResolveNonCached (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:549:16)
+    at getProjectSearchDir (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:519:40)
+    at phase3 (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:267:27)
+    at bootstrap (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:47:30)
+    at main (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:33:12)
+    at Object.<anonymous> (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:579:5)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/xxxxxxxx/VRGAMEADMIN/packages/agent/packages/server/src/imaginaryUncacheableRequireResolveScript'
+  ]
+}
+
+Node.js v22.13.0
+node:internal/modules/cjs/loader:1247
+  throw err;
+  ^
+
+Error: Cannot find module './index.ts'
+Require stack:
+- /home/xxxxxxxx/VRGAMEADMIN/packages/agent/packages/server/src/imaginaryUncacheableRequireResolveScript
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function.resolve (node:internal/modules/helpers:146:19)
+    at requireResolveNonCached (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:549:16)
+    at getProjectSearchDir (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:519:40)
+    at phase3 (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:267:27)
+    at bootstrap (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:47:30)
+    at main (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:33:12)
+    at Object.<anonymous> (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:579:5)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/xxxxxxxx/VRGAMEADMIN/packages/agent/packages/server/src/imaginaryUncacheableRequireResolveScript'
+  ]
+}
+
+Node.js v22.13.0
+node:internal/modules/cjs/loader:1247
+  throw err;
+  ^
+
+Error: Cannot find module './index.ts'
+Require stack:
+- /home/xxxxxxxx/VRGAMEADMIN/packages/agent/packages/server/src/imaginaryUncacheableRequireResolveScript
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function.resolve (node:internal/modules/helpers:146:19)
+    at requireResolveNonCached (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:549:16)
+    at getProjectSearchDir (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:519:40)
+    at phase3 (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:267:27)
+    at bootstrap (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:47:30)
+    at main (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:33:12)
+    at Object.<anonymous> (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:579:5)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/xxxxxxxx/VRGAMEADMIN/packages/agent/packages/server/src/imaginaryUncacheableRequireResolveScript'
+  ]
+}
+
+Node.js v22.13.0
+node:internal/modules/cjs/loader:1247
+  throw err;
+  ^
+
+Error: Cannot find module './index.ts'
+Require stack:
+- /home/xxxxxxxx/VRGAMEADMIN/packages/agent/packages/server/src/imaginaryUncacheableRequireResolveScript
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function.resolve (node:internal/modules/helpers:146:19)
+    at requireResolveNonCached (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:549:16)
+    at getProjectSearchDir (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:519:40)
+    at phase3 (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:267:27)
+    at bootstrap (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:47:30)
+    at main (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:33:12)
+    at Object.<anonymous> (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:579:5)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/xxxxxxxx/VRGAMEADMIN/packages/agent/packages/server/src/imaginaryUncacheableRequireResolveScript'
+  ]
+}
+
+Node.js v22.13.0
+node:internal/modules/cjs/loader:1247
+  throw err;
+  ^
+
+Error: Cannot find module './index.ts'
+Require stack:
+- /home/xxxxxxxx/VRGAMEADMIN/packages/agent/packages/server/src/imaginaryUncacheableRequireResolveScript
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function.resolve (node:internal/modules/helpers:146:19)
+    at requireResolveNonCached (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:549:16)
+    at getProjectSearchDir (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:519:40)
+    at phase3 (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:267:27)
+    at bootstrap (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:47:30)
+    at main (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:33:12)
+    at Object.<anonymous> (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:579:5)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/xxxxxxxx/VRGAMEADMIN/packages/agent/packages/server/src/imaginaryUncacheableRequireResolveScript'
+  ]
+}
+
+Node.js v22.13.0
+node:internal/modules/cjs/loader:1247
+  throw err;
+  ^
+
+Error: Cannot find module './index.ts'
+Require stack:
+- /home/xxxxxxxx/VRGAMEADMIN/packages/agent/packages/server/src/imaginaryUncacheableRequireResolveScript
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function.resolve (node:internal/modules/helpers:146:19)
+    at requireResolveNonCached (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:549:16)
+    at getProjectSearchDir (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:519:40)
+    at phase3 (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:267:27)
+    at bootstrap (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:47:30)
+    at main (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:33:12)
+    at Object.<anonymous> (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:579:5)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/xxxxxxxx/VRGAMEADMIN/packages/agent/packages/server/src/imaginaryUncacheableRequireResolveScript'
+  ]
+}
+
+Node.js v22.13.0
+node:internal/modules/cjs/loader:1247
+  throw err;
+  ^
+
+Error: Cannot find module './index.ts'
+Require stack:
+- /home/xxxxxxxx/VRGAMEADMIN/packages/agent/packages/server/src/imaginaryUncacheableRequireResolveScript
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function.resolve (node:internal/modules/helpers:146:19)
+    at requireResolveNonCached (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:549:16)
+    at getProjectSearchDir (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:519:40)
+    at phase3 (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:267:27)
+    at bootstrap (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:47:30)
+    at main (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:33:12)
+    at Object.<anonymous> (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:579:5)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/xxxxxxxx/VRGAMEADMIN/packages/agent/packages/server/src/imaginaryUncacheableRequireResolveScript'
+  ]
+}
+
+Node.js v22.13.0
+node:internal/modules/cjs/loader:1247
+  throw err;
+  ^
+
+Error: Cannot find module './index.ts'
+Require stack:
+- /home/xxxxxxxx/VRGAMEADMIN/packages/agent/packages/server/src/imaginaryUncacheableRequireResolveScript
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function.resolve (node:internal/modules/helpers:146:19)
+    at requireResolveNonCached (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:549:16)
+    at getProjectSearchDir (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:519:40)
+    at phase3 (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:267:27)
+    at bootstrap (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:47:30)
+    at main (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:33:12)
+    at Object.<anonymous> (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:579:5)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/xxxxxxxx/VRGAMEADMIN/packages/agent/packages/server/src/imaginaryUncacheableRequireResolveScript'
+  ]
+}
+
+Node.js v22.13.0
+node:internal/modules/cjs/loader:1247
+  throw err;
+  ^
+
+Error: Cannot find module './index.ts'
+Require stack:
+- /home/xxxxxxxx/VRGAMEADMIN/packages/agent/packages/server/src/imaginaryUncacheableRequireResolveScript
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function.resolve (node:internal/modules/helpers:146:19)
+    at requireResolveNonCached (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:549:16)
+    at getProjectSearchDir (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:519:40)
+    at phase3 (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:267:27)
+    at bootstrap (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:47:30)
+    at main (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:33:12)
+    at Object.<anonymous> (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:579:5)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/xxxxxxxx/VRGAMEADMIN/packages/agent/packages/server/src/imaginaryUncacheableRequireResolveScript'
+  ]
+}
+
+Node.js v22.13.0
+node:internal/modules/cjs/loader:1247
+  throw err;
+  ^
+
+Error: Cannot find module './index.ts'
+Require stack:
+- /home/xxxxxxxx/VRGAMEADMIN/packages/agent/packages/server/src/imaginaryUncacheableRequireResolveScript
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function.resolve (node:internal/modules/helpers:146:19)
+    at requireResolveNonCached (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:549:16)
+    at getProjectSearchDir (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:519:40)
+    at phase3 (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:267:27)
+    at bootstrap (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:47:30)
+    at main (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:33:12)
+    at Object.<anonymous> (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:579:5)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/xxxxxxxx/VRGAMEADMIN/packages/agent/packages/server/src/imaginaryUncacheableRequireResolveScript'
+  ]
+}
+
+Node.js v22.13.0
+node:internal/modules/cjs/loader:1247
+  throw err;
+  ^
+
+Error: Cannot find module './index.ts'
+Require stack:
+- /home/xxxxxxxx/VRGAMEADMIN/packages/agent/packages/server/src/imaginaryUncacheableRequireResolveScript
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function.resolve (node:internal/modules/helpers:146:19)
+    at requireResolveNonCached (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:549:16)
+    at getProjectSearchDir (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:519:40)
+    at phase3 (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:267:27)
+    at bootstrap (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:47:30)
+    at main (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:33:12)
+    at Object.<anonymous> (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:579:5)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/xxxxxxxx/VRGAMEADMIN/packages/agent/packages/server/src/imaginaryUncacheableRequireResolveScript'
+  ]
+}
+
+Node.js v22.13.0
+node:internal/modules/cjs/loader:1247
+  throw err;
+  ^
+
+Error: Cannot find module './index.ts'
+Require stack:
+- /home/xxxxxxxx/VRGAMEADMIN/packages/agent/packages/server/src/imaginaryUncacheableRequireResolveScript
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function.resolve (node:internal/modules/helpers:146:19)
+    at requireResolveNonCached (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:549:16)
+    at getProjectSearchDir (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:519:40)
+    at phase3 (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:267:27)
+    at bootstrap (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:47:30)
+    at main (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:33:12)
+    at Object.<anonymous> (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:579:5)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/xxxxxxxx/VRGAMEADMIN/packages/agent/packages/server/src/imaginaryUncacheableRequireResolveScript'
+  ]
+}
+
+Node.js v22.13.0
+node:internal/modules/cjs/loader:1247
+  throw err;
+  ^
+
+Error: Cannot find module './index.ts'
+Require stack:
+- /home/xxxxxxxx/VRGAMEADMIN/packages/agent/packages/server/src/imaginaryUncacheableRequireResolveScript
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function.resolve (node:internal/modules/helpers:146:19)
+    at requireResolveNonCached (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:549:16)
+    at getProjectSearchDir (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:519:40)
+    at phase3 (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:267:27)
+    at bootstrap (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:47:30)
+    at main (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:33:12)
+    at Object.<anonymous> (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:579:5)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/xxxxxxxx/VRGAMEADMIN/packages/agent/packages/server/src/imaginaryUncacheableRequireResolveScript'
+  ]
+}
+
+Node.js v22.13.0
+node:internal/modules/cjs/loader:1247
+  throw err;
+  ^
+
+Error: Cannot find module './index.ts'
+Require stack:
+- /home/xxxxxxxx/VRGAMEADMIN/packages/agent/packages/server/src/imaginaryUncacheableRequireResolveScript
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function.resolve (node:internal/modules/helpers:146:19)
+    at requireResolveNonCached (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:549:16)
+    at getProjectSearchDir (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:519:40)
+    at phase3 (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:267:27)
+    at bootstrap (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:47:30)
+    at main (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:33:12)
+    at Object.<anonymous> (/home/xxxxxxxx/VRGAMEADMIN/node_modules/ts-node/dist/bin.js:579:5)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/xxxxxxxx/VRGAMEADMIN/packages/agent/packages/server/src/imaginaryUncacheableRequireResolveScript'
+  ]
+}
+
+Node.js v22.13.0

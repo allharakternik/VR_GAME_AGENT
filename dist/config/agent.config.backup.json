@@ -1,0 +1,19 @@
+{
+  "pcName": "VR-01",
+  "pcGroup": "Зал 1",
+  "gamesDirectories": [
+    "C:/Program Files (x86)/Steam/steamapps/common",
+    "D:/Games/SteamLibrary/steamapps/common"
+  ],
+  "steamPath": "C:/Program Files (x86)/Steam/steam.exe",
+  "serverUrl": "http://192.168.50.230:4000",
+  "steamVrAppId": 250820,
+  "autoRegister": true,
+  "autoLaunchAtStartup": false,
+  "heartbeatIntervalMs": 5000,
+  "alwaysRestartGameEvenIfRunning": true,
+  "delayBetweenKillAndStartMs": 2000,
+  "gameLaunchMode": "direct",
+  "logToFile": true,
+  "gameWhitelist": []
+}

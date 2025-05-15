@@ -1,9 +1,14 @@
 import fs from 'fs';
-import path from 'path';
 import { io } from 'socket.io-client'; // WebSocket клиент
 import fetch from 'node-fetch';
 import { exec, execSync } from 'child_process';
 import macaddress from 'node-macaddress';
+import { dirname } from 'path';
+import { fileURLToPath } from 'url';
+import path from 'path';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
 
 // Настройка логирования для агента
 const logFile = path.join(__dirname, '../../log/agent.log');
@@ -28,6 +33,7 @@ try {
   console.log('[Agent] Конфигурация успешно загружена:');
   console.log('Имя ПК:', config.pcName);
   console.log('Путь к играм:', config.gamesDirectory);
+  console.log('Пути к играм:', config.gamesDirectories);
 } catch (err) {
   console.error('[Agent] Ошибка загрузки конфигурации:', err);
   process.exit(1);

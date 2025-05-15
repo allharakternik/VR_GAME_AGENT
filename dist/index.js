@@ -1,9 +1,13 @@
 import fs from 'fs';
-import path from 'path';
 import { io } from 'socket.io-client'; // WebSocket клиент
 import fetch from 'node-fetch';
 import { exec, execSync } from 'child_process';
 import macaddress from 'node-macaddress';
+import { dirname } from 'path';
+import { fileURLToPath } from 'url';
+import path from 'path';
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
 // Настройка логирования для агента
 const logFile = path.join(__dirname, '../../log/agent.log');
 const logStream = fs.createWriteStream(logFile, { flags: 'a' });
